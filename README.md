@@ -27,7 +27,7 @@ pip install scrapy
 1. 进入项目目录
 2. 运行爬虫：
 ```bash
-scrapy crawl tripadvisor
+scrapy crawl job
 ```
 
 ## 数据输出
